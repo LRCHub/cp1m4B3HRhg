@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Get It On",
+  "base_artist": "T. Rex",
+  "createdAt": "2026-02-15T12:43:59.372627Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get It On The Floor",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/01_Get_It_On_The_Floor_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Get it On",
+      "artist": "Metro Station",
+      "has_synced": true,
+      "path": "select/02_Get_it_On_Metro_Station.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Let's Get It On",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/03_Let's_Get_It_On_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Get It On (Bang a Gong)",
+      "artist": "The Power Station",
+      "has_synced": true,
+      "path": "select/04_Get_It_On_(Bang_a_Gong)_The_Power_Station.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Get It On (Bang a Gong) (7\")",
+      "artist": "The Power Station",
+      "has_synced": false,
+      "path": "select/05_Get_It_On_(Bang_a_Gong)_(7_)_The_Power_Station.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let's Get It On",
+      "artist": "The Power Station",
+      "has_synced": false,
+      "path": "select/06_Let's_Get_It_On_The_Power_Station.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Let’s Get It On 99",
+      "artist": "Robert Palmer",
+      "has_synced": false,
+      "path": "select/07_Let’s_Get_It_On_99_Robert_Palmer.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Get It On the Floor (feat. Swizz Beatz) [Live]",
+      "artist": "DMX",
+      "has_synced": false,
+      "path": "select/08_Get_It_On_the_Floor_(feat._Swizz_Beatz)_[Live]_DMX.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get It On",
+      "artist": "Grinderman",
+      "has_synced": false,
+      "path": "select/09_Get_It_On_Grinderman.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get It On (Bang a Gong)",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/10_Get_It_On_(Bang_a_Gong)_T._Rex.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bang A Gong (Get It On)",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/11_Bang_A_Gong_(Get_It_On)_T._Rex.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Get It On",
+      "artist": "T-Pain",
+      "has_synced": true,
+      "path": "select/12_Let's_Get_It_On_T-Pain.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby Get It On",
+      "artist": "Tina Turner",
+      "has_synced": false,
+      "path": "select/13_Baby_Get_It_On_Tina_Turner.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Enjoy and Get It On",
+      "artist": "ZZ Top",
+      "has_synced": false,
+      "path": "select/14_Enjoy_and_Get_It_On_ZZ_Top.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "GET IT ON",
+      "artist": "T. Rex",
+      "has_synced": true,
+      "path": "select/15_GET_IT_ON_T._Rex.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Get It On Blues",
+      "artist": "T. Rex",
+      "has_synced": false,
+      "path": "select/16_Get_It_On_Blues_T._Rex.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get It On",
+      "artist": "T.Rex",
+      "has_synced": false,
+      "path": "select/pl_01_Get_It_On_T.Rex.txt"
+    }
+  ]
+}
